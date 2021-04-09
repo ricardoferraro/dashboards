@@ -11,5 +11,5 @@ Data: <br>
 **Hwang dashboard using Python** (Towards Data Science) <br>
 https://towardsdatascience.com/build-a-web-data-dashboard-in-just-minutes-with-python-d722076aee2b <br>
 + dashboards/Hwang_dash.ipynb <br>
-Data:
+Data: <br>
 -> dashboards/shot_dist_compiled_data_2019_20.csv <br>
