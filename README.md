@@ -1,4 +1,4 @@
-# dashboards
+# Dashboards
 
 **Power BI Example** (Microsoft) <br>
 https://docs.microsoft.com/pt-br/power-bi/fundamentals/desktop-getting-started <br>
